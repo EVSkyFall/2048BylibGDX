@@ -1,0 +1,103 @@
+game.png
+size: 995, 1231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+best_score
+  rotate: false
+  xy: 695, 557
+  size: 201, 122
+  orig: 202, 123
+  offset: 1, 0
+  index: -1
+card_bg
+  rotate: false
+  xy: 646, 923
+  size: 160, 160
+  orig: 161, 161
+  offset: 1, 0
+  index: -1
+current_score
+  rotate: false
+  xy: 695, 433
+  size: 202, 122
+  orig: 203, 123
+  offset: 1, 0
+  index: -1
+exit_btn
+  rotate: false
+  xy: 695, 117
+  size: 299, 113
+  orig: 300, 118
+  offset: 1, 0
+  index: 1
+exit_btn
+  rotate: false
+  xy: 695, 1
+  size: 299, 114
+  orig: 300, 115
+  offset: 1, 0
+  index: 2
+grid_bg
+  rotate: false
+  xy: 1, 1
+  size: 692, 692
+  orig: 696, 702
+  offset: 3, 5
+  index: -1
+logo
+  rotate: false
+  xy: 695, 354
+  size: 219, 77
+  orig: 224, 82
+  offset: 4, 1
+  index: -1
+over_restart
+  rotate: false
+  xy: 646, 1085
+  size: 147, 143
+  orig: 147, 147
+  offset: 0, 0
+  index: 1
+over_restart
+  rotate: false
+  xy: 808, 923
+  size: 150, 147
+  orig: 152, 152
+  offset: 1, 0
+  index: 2
+over_text
+  rotate: false
+  xy: 695, 232
+  size: 267, 60
+  orig: 267, 60
+  offset: 0, 0
+  index: -1
+restart_btn
+  rotate: false
+  xy: 646, 695
+  size: 300, 112
+  orig: 300, 115
+  offset: 0, 0
+  index: 1
+restart_btn
+  rotate: false
+  xy: 646, 809
+  size: 300, 112
+  orig: 300, 115
+  offset: 0, 0
+  index: 2
+score_board
+  rotate: false
+  xy: 1, 695
+  size: 643, 535
+  orig: 648, 540
+  offset: 3, 1
+  index: -1
+victory_text
+  rotate: false
+  xy: 695, 294
+  size: 234, 58
+  orig: 234, 58
+  offset: 0, 0
+  index: -1
